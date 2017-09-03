@@ -8,11 +8,10 @@
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> https://github.com/zhouyuhang/Youtube-App.git
-> cd Youtube-App-master
+> https://github.com/zhouyuhang/MEAN.git
+> cd MEAN
 > npm install
 > npm run build
 > npm start
 ```
-Listening to port 3000.# MEAN
-# MEAN
+Listening to port 3000

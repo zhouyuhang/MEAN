@@ -1,5 +1,6 @@
 # A Social Network App with MEAN stack: Angular 2, NodeJS, ExpressJS, MongoDB
 
+Project in progress: 35% completed
 
 ### Getting Started
 
